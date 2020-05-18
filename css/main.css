@@ -1,0 +1,19 @@
+h1{
+   text-align: center;  
+   padding: 3%;
+   font-family: 'Cairo', sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: #121291;
+    font-family: 'Cairo', sans-serif;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+*{
+    background-color: rgb(200, 221, 244);
+}
